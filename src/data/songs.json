@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "billie-jean",
+    "title": "Billie Jean",
+    "album": "Thriller",
+    "energy": 8,
+    "mood": [
+      "confident",
+      "mysterious",
+      "dance"
+    ],
+    "spotifyQuery": "Billie Jean Michael Jackson",
+    "duration": "4:54"
+  },
+  {
+    "id": "beat-it",
+    "title": "Beat It",
+    "album": "Thriller",
+    "energy": 9,
+    "mood": [
+      "angry",
+      "motivation",
+      "rebellious"
+    ],
+    "spotifyQuery": "Beat It Michael Jackson",
+    "duration": "4:18"
+  },
+  {
+    "id": "smooth-criminal",
+    "title": "Smooth Criminal (2012 Remaster)",
+    "album": "Bad",
+    "energy": 8,
+    "mood": [
+      "mysterious",
+      "cool",
+      "dance"
+    ],
+    "spotifyQuery": "Smooth Criminal Michael Jackson",
+    "duration": "4:17"
+  },
+  {
+    "id": "thriller",
+    "title": "Thriller",
+    "album": "Thriller",
+    "energy": 8,
+    "mood": [
+      "spooky",
+      "dance",
+      "fun"
+    ],
+    "spotifyQuery": "Thriller Michael Jackson",
+    "duration": "5:57"
+  },
+  {
+    "id": "rock-with-you",
+    "title": "Rock With You",
+    "album": "Off The Wall",
+    "energy": 7,
+    "mood": [
+      "happy",
+      "dance",
+      "smooth"
+    ],
+    "spotifyQuery": "Rock With You Michael Jackson",
+    "duration": "3:40"
+  },
+  {
+    "id": "dont-stop-til-you-get-enough",
+    "title": "Don't Stop 'Til You Get Enough",
+    "album": "Off The Wall",
+    "energy": 9,
+    "mood": [
+      "happy",
+      "dance",
+      "energetic"
+    ],
+    "spotifyQuery": "Don't Stop 'Til You Get Enough Michael Jackson",
+    "duration": "6:05"
+  },
+  {
+    "id": "the-way-you-make-me-feel",
+    "title": "The Way You Make Me Feel",
+    "album": "Bad",
+    "energy": 8,
+    "mood": [
+      "confident",
+      "love",
+      "upbeat"
+    ],
+    "spotifyQuery": "The Way You Make Me Feel Michael Jackson",
+    "duration": "4:58"
+  },
+  {
+    "id": "chicago",
+    "title": "Chicago",
+    "album": "Xscape",
+    "energy": 6,
+    "mood": [
+      "mysterious",
+      "smooth",
+      "pop"
+    ],
+    "spotifyQuery": "Chicago Michael Jackson",
+    "duration": "4:05"
+  },
+  {
+    "id": "they-dont-care-about-us",
+    "title": "They Don't Care About Us",
+    "album": "HIStory",
+    "energy": 9,
+    "mood": [
+      "angry",
+      "rebellious",
+      "epic"
+    ],
+    "spotifyQuery": "They Don't Care About Us Michael Jackson",
+    "duration": "4:44"
+  },
+  {
+    "id": "pyt",
+    "title": "P.Y.T. (Pretty Young Thing)",
+    "album": "Thriller",
+    "energy": 8,
+    "mood": [
+      "happy",
+      "dance",
+      "fun"
+    ],
+    "spotifyQuery": "P.Y.T. Michael Jackson",
+    "duration": "3:59"
+  },
+  {
+    "id": "man-in-the-mirror",
+    "title": "Man in the Mirror",
+    "album": "Bad",
+    "energy": 6,
+    "mood": [
+      "motivation",
+      "reflection",
+      "hopeful"
+    ],
+    "spotifyQuery": "Man in the Mirror Michael Jackson",
+    "duration": "5:19"
+  },
+  {
+    "id": "bad",
+    "title": "Bad",
+    "album": "Bad",
+    "energy": 9,
+    "mood": [
+      "confident",
+      "rebellious",
+      "dance"
+    ],
+    "spotifyQuery": "Bad Michael Jackson",
+    "duration": "4:07"
+  },
+  {
+    "id": "remember-the-time",
+    "title": "Remember The Time",
+    "album": "Dangerous",
+    "energy": 7,
+    "mood": [
+      "nostalgic",
+      "dance",
+      "love"
+    ],
+    "spotifyQuery": "Remember The Time Michael Jackson",
+    "duration": "4:00"
+  },
+  {
+    "id": "dont-matter-to-me",
+    "title": "Don't Matter To Me (Drake feat. Michael Jackson)",
+    "album": "Scorpion",
+    "energy": 5,
+    "mood": [
+      "smooth",
+      "chill",
+      "modern"
+    ],
+    "spotifyQuery": "Don't Matter To Me Drake Michael Jackson",
+    "duration": "4:05"
+  },
+  {
+    "id": "dirty-diana",
+    "title": "Dirty Diana - 2012 Remaster",
+    "album": "Bad",
+    "energy": 8,
+    "mood": [
+      "angry",
+      "dark",
+      "rock"
+    ],
+    "spotifyQuery": "Dirty Diana Michael Jackson",
+    "duration": "4:41"
+  },
+  {
+    "id": "black-or-white",
+    "title": "Black or White",
+    "album": "Dangerous",
+    "energy": 8,
+    "mood": [
+      "upbeat",
+      "happy",
+      "rock"
+    ],
+    "spotifyQuery": "Black or White Michael Jackson",
+    "duration": "4:15"
+  },
+  {
+    "id": "human-nature",
+    "title": "Human Nature",
+    "album": "Thriller",
+    "energy": 3,
+    "mood": [
+      "peace",
+      "lonely",
+      "reflection",
+      "calm"
+    ],
+    "spotifyQuery": "Human Nature Michael Jackson",
+    "duration": "4:06"
+  },
+  {
+    "id": "love-never-felt-so-good",
+    "title": "Love Never Felt So Good",
+    "album": "Xscape",
+    "energy": 7,
+    "mood": [
+      "happy",
+      "love",
+      "dance"
+    ],
+    "spotifyQuery": "Love Never Felt So Good Michael Jackson",
+    "duration": "3:54"
+  },
+  {
+    "id": "wanna-be-startin-somethin",
+    "title": "Wanna Be Startin' Somethin'",
+    "album": "Thriller",
+    "energy": 9,
+    "mood": [
+      "energetic",
+      "dance",
+      "fun"
+    ],
+    "spotifyQuery": "Wanna Be Startin' Somethin' Michael Jackson",
+    "duration": "6:03"
+  },
+  {
+    "id": "heal-the-world",
+    "title": "Heal the World",
+    "album": "Dangerous",
+    "energy": 4,
+    "mood": [
+      "hopeful",
+      "peace",
+      "reflection"
+    ],
+    "spotifyQuery": "Heal the World Michael Jackson",
+    "duration": "6:24"
+  },
+  {
+    "id": "you-rock-my-world",
+    "title": "You Rock My World",
+    "album": "Invincible",
+    "energy": 7,
+    "mood": [
+      "smooth",
+      "dance",
+      "love"
+    ],
+    "spotifyQuery": "You Rock My World Michael Jackson",
+    "duration": "5:39"
+  },
+  {
+    "id": "heaven-can-wait",
+    "title": "Heaven Can Wait",
+    "album": "Invincible",
+    "energy": 4,
+    "mood": [
+      "love",
+      "smooth",
+      "romantic"
+    ],
+    "spotifyQuery": "Heaven Can Wait Michael Jackson",
+    "duration": "4:49"
+  },
+  {
+    "id": "you-are-not-alone",
+    "title": "You Are Not Alone",
+    "album": "HIStory",
+    "energy": 2,
+    "mood": [
+      "lonely",
+      "love",
+      "sad",
+      "peace"
+    ],
+    "spotifyQuery": "You Are Not Alone Michael Jackson",
+    "duration": "5:45"
+  },
+  {
+    "id": "earth-song",
+    "title": "Earth Song",
+    "album": "HIStory",
+    "energy": 7,
+    "mood": [
+      "epic",
+      "sad",
+      "angry",
+      "reflection"
+    ],
+    "spotifyQuery": "Earth Song Michael Jackson",
+    "duration": "6:46"
+  },
+  {
+    "id": "i-just-cant-stop-loving-you",
+    "title": "I Just Can't Stop Loving You",
+    "album": "Bad",
+    "energy": 4,
+    "mood": [
+      "love",
+      "romantic",
+      "peace"
+    ],
+    "spotifyQuery": "I Just Can't Stop Loving You Michael Jackson",
+    "duration": "4:12"
+  },
+  {
+    "id": "the-girl-is-mine",
+    "title": "The Girl Is Mine (with Paul McCartney)",
+    "album": "Thriller",
+    "energy": 4,
+    "mood": [
+      "happy",
+      "love",
+      "smooth"
+    ],
+    "spotifyQuery": "The Girl Is Mine Michael Jackson",
+    "duration": "3:42"
+  },
+  {
+    "id": "off-the-wall",
+    "title": "Off the Wall",
+    "album": "Off The Wall",
+    "energy": 8,
+    "mood": [
+      "dance",
+      "happy",
+      "fun"
+    ],
+    "spotifyQuery": "Off the Wall Michael Jackson",
+    "duration": "4:05"
+  },
+  {
+    "id": "say-say-say",
+    "title": "Say Say Say - Remastered 2015",
+    "album": "Pipes of Peace",
+    "energy": 7,
+    "mood": [
+      "upbeat",
+      "fun",
+      "pop"
+    ],
+    "spotifyQuery": "Say Say Say Michael Jackson",
+    "duration": "3:55"
+  },
+  {
+    "id": "love-never-felt-so-good-solo",
+    "title": "Love Never Felt So Good (Solo Version)",
+    "album": "Xscape",
+    "energy": 6,
+    "mood": [
+      "happy",
+      "smooth",
+      "love"
+    ],
+    "spotifyQuery": "Love Never Felt So Good Solo Michael Jackson",
+    "duration": "3:54"
+  },
+  {
+    "id": "liberian-girl",
+    "title": "Liberian Girl - 2012 Remastered Version",
+    "album": "Bad",
+    "energy": 4,
+    "mood": [
+      "mysterious",
+      "smooth",
+      "exotic"
+    ],
+    "spotifyQuery": "Liberian Girl Michael Jackson",
+    "duration": "3:53"
+  },
+  {
+    "id": "leave-me-alone",
+    "title": "Leave Me Alone - 2012 Remaster",
+    "album": "Bad",
+    "energy": 7,
+    "mood": [
+      "angry",
+      "rebellious",
+      "upbeat"
+    ],
+    "spotifyQuery": "Leave Me Alone Michael Jackson",
+    "duration": "4:40"
+  },
+  {
+    "id": "hold-my-hand",
+    "title": "Hold My Hand (with Akon)",
+    "album": "Michael",
+    "energy": 6,
+    "mood": [
+      "hopeful",
+      "uplifting",
+      "love"
+    ],
+    "spotifyQuery": "Hold My Hand Michael Jackson",
+    "duration": "3:32"
+  },
+  {
+    "id": "thriller-single-version",
+    "title": "Thriller - Single Version",
+    "album": "Thriller",
+    "energy": 8,
+    "mood": [
+      "spooky",
+      "dance",
+      "fun"
+    ],
+    "spotifyQuery": "Thriller Single Version Michael Jackson",
+    "duration": "5:12"
+  },
+  {
+    "id": "baby-be-mine",
+    "title": "Baby Be Mine",
+    "album": "Thriller",
+    "energy": 7,
+    "mood": [
+      "happy",
+      "love",
+      "smooth"
+    ],
+    "spotifyQuery": "Baby Be Mine Michael Jackson",
+    "duration": "4:20"
+  },
+  {
+    "id": "you-rock-my-world-radio-edit",
+    "title": "You Rock My World - Radio Edit",
+    "album": "Invincible",
+    "energy": 7,
+    "mood": [
+      "smooth",
+      "dance",
+      "love"
+    ],
+    "spotifyQuery": "You Rock My World Radio Edit Michael Jackson",
+    "duration": "4:26"
+  },
+  {
+    "id": "black-or-white-single-version",
+    "title": "Black or White - Single Version",
+    "album": "Dangerous",
+    "energy": 8,
+    "mood": [
+      "upbeat",
+      "happy",
+      "rock"
+    ],
+    "spotifyQuery": "Black or White Single Version Michael Jackson",
+    "duration": "3:22"
+  },
+  {
+    "id": "blood-on-the-dance-floor",
+    "title": "Blood on the Dance Floor",
+    "album": "Blood on the Dance Floor",
+    "energy": 8,
+    "mood": [
+      "dark",
+      "dance",
+      "mysterious"
+    ],
+    "spotifyQuery": "Blood on the Dance Floor Michael Jackson",
+    "duration": "4:13"
+  },
+  {
+    "id": "scream",
+    "title": "Scream (with Janet Jackson)",
+    "album": "HIStory",
+    "energy": 9,
+    "mood": [
+      "angry",
+      "rebellious",
+      "energetic"
+    ],
+    "spotifyQuery": "Scream Michael Jackson",
+    "duration": "4:38"
+  },
+  {
+    "id": "ben",
+    "title": "Ben - Single Version",
+    "album": "Ben",
+    "energy": 3,
+    "mood": [
+      "sad",
+      "love",
+      "nostalgic"
+    ],
+    "spotifyQuery": "Ben Michael Jackson",
+    "duration": "2:44"
+  },
+  {
+    "id": "workin-day-and-night",
+    "title": "Workin' Day and Night",
+    "album": "Off The Wall",
+    "energy": 9,
+    "mood": [
+      "energetic",
+      "dance",
+      "upbeat"
+    ],
+    "spotifyQuery": "Workin' Day and Night Michael Jackson",
+    "duration": "5:14"
+  },
+  {
+    "id": "dangerous",
+    "title": "Dangerous",
+    "album": "Dangerous",
+    "energy": 8,
+    "mood": [
+      "mysterious",
+      "dance",
+      "dark"
+    ],
+    "spotifyQuery": "Dangerous Michael Jackson",
+    "duration": "6:59"
+  },
+  {
+    "id": "the-lady-in-my-life",
+    "title": "The Lady in My Life",
+    "album": "Thriller",
+    "energy": 4,
+    "mood": [
+      "smooth",
+      "love",
+      "romantic"
+    ],
+    "spotifyQuery": "The Lady in My Life Michael Jackson",
+    "duration": "4:59"
+  },
+  {
+    "id": "in-the-closet",
+    "title": "In the Closet",
+    "album": "Dangerous",
+    "energy": 7,
+    "mood": [
+      "mysterious",
+      "dance",
+      "smooth"
+    ],
+    "spotifyQuery": "In the Closet Michael Jackson",
+    "duration": "6:31"
+  },
+  {
+    "id": "jam",
+    "title": "Jam",
+    "album": "Dangerous",
+    "energy": 9,
+    "mood": [
+      "energetic",
+      "dance",
+      "upbeat"
+    ],
+    "spotifyQuery": "Jam Michael Jackson",
+    "duration": "5:38"
+  },
+  {
+    "id": "give-in-to-me",
+    "title": "Give In to Me",
+    "album": "Dangerous",
+    "energy": 8,
+    "mood": [
+      "dark",
+      "rock",
+      "angry"
+    ],
+    "spotifyQuery": "Give In to Me Michael Jackson",
+    "duration": "5:29"
+  },
+  {
+    "id": "butterflies",
+    "title": "Butterflies",
+    "album": "Invincible",
+    "energy": 4,
+    "mood": [
+      "love",
+      "smooth",
+      "happy"
+    ],
+    "spotifyQuery": "Butterflies Michael Jackson",
+    "duration": "4:40"
+  },
+  {
+    "id": "who-is-it",
+    "title": "Who Is It",
+    "album": "Dangerous",
+    "energy": 5,
+    "mood": [
+      "mysterious",
+      "dark",
+      "betrayed",
+      "sad"
+    ],
+    "spotifyQuery": "Who Is It Michael Jackson",
+    "duration": "6:34"
+  },
+  {
+    "id": "shake-your-body",
+    "title": "Shake Your Body (Down to the Ground)",
+    "album": "Destiny",
+    "energy": 9,
+    "mood": [
+      "dance",
+      "happy",
+      "energetic"
+    ],
+    "spotifyQuery": "Shake Your Body Michael Jackson",
+    "duration": "3:46"
+  },
+  {
+    "id": "you-rock-my-world-album",
+    "title": "You Rock My World (Album Version)",
+    "album": "Invincible",
+    "energy": 7,
+    "mood": [
+      "smooth",
+      "dance",
+      "love"
+    ],
+    "spotifyQuery": "You Rock My World Album Version Michael Jackson",
+    "duration": "5:39"
+  },
+  {
+    "id": "i-cant-help-it",
+    "title": "I Can't Help It",
+    "album": "Off The Wall",
+    "energy": 4,
+    "mood": [
+      "smooth",
+      "love",
+      "chill"
+    ],
+    "spotifyQuery": "I Can't Help It Michael Jackson",
+    "duration": "4:28"
+  },
+  {
+    "id": "a-place-with-no-name",
+    "title": "A Place With No Name",
+    "album": "Xscape",
+    "energy": 6,
+    "mood": [
+      "mysterious",
+      "upbeat",
+      "pop"
+    ],
+    "spotifyQuery": "A Place With No Name Michael Jackson",
+    "duration": "5:35"
+  },
+  {
+    "id": "rockin-robin",
+    "title": "Rockin' Robin",
+    "album": "Got To Be There",
+    "energy": 8,
+    "mood": [
+      "happy",
+      "fun",
+      "nostalgic"
+    ],
+    "spotifyQuery": "Rockin' Robin Michael Jackson",
+    "duration": "2:31"
+  },
+  {
+    "id": "another-part-of-me",
+    "title": "Another Part of Me",
+    "album": "Bad",
+    "energy": 8,
+    "mood": [
+      "upbeat",
+      "dance",
+      "fun"
+    ],
+    "spotifyQuery": "Another Part of Me Michael Jackson",
+    "duration": "3:54"
+  },
+  {
+    "id": "stranger-in-moscow",
+    "title": "Stranger in Moscow",
+    "album": "HIStory",
+    "energy": 2,
+    "mood": [
+      "lonely",
+      "sad",
+      "reflection",
+      "rain"
+    ],
+    "spotifyQuery": "Stranger in Moscow Michael Jackson",
+    "duration": "5:44"
+  },
+  {
+    "id": "shes-out-of-my-life",
+    "title": "She's Out Of My Life",
+    "album": "Off The Wall",
+    "energy": 2,
+    "mood": [
+      "sad",
+      "lonely",
+      "love"
+    ],
+    "spotifyQuery": "She's Out Of My Life Michael Jackson",
+    "duration": "3:38"
+  },
+  {
+    "id": "we-are-the-world-live",
+    "title": "We Are The World - Live",
+    "album": "Live",
+    "energy": 5,
+    "mood": [
+      "hopeful",
+      "epic",
+      "uplifting"
+    ],
+    "spotifyQuery": "We Are The World Live Michael Jackson",
+    "duration": "5:20"
+  },
+  {
+    "id": "say-say-say-original",
+    "title": "Say Say Say (Original Version feat. Paul McCartney)",
+    "album": "Pipes of Peace",
+    "energy": 7,
+    "mood": [
+      "upbeat",
+      "fun",
+      "pop"
+    ],
+    "spotifyQuery": "Say Say Say Original Michael Jackson",
+    "duration": "3:55"
+  },
+  {
+    "id": "ghosts",
+    "title": "Ghosts",
+    "album": "Blood on the Dance Floor",
+    "energy": 7,
+    "mood": [
+      "spooky",
+      "dance",
+      "dark"
+    ],
+    "spotifyQuery": "Ghosts Michael Jackson",
+    "duration": "5:13"
+  },
+  {
+    "id": "will-you-be-there-single",
+    "title": "Will You Be There - Single Version",
+    "album": "Dangerous",
+    "energy": 6,
+    "mood": [
+      "epic",
+      "hopeful",
+      "uplifting"
+    ],
+    "spotifyQuery": "Will You Be There Single Version Michael Jackson",
+    "duration": "5:22"
+  },
+  {
+    "id": "dont-stop-til-you-get-enough-2003",
+    "title": "Don't Stop 'Til You Get Enough - 2003 Edit",
+    "album": "Number Ones",
+    "energy": 9,
+    "mood": [
+      "happy",
+      "dance",
+      "energetic"
+    ],
+    "spotifyQuery": "Don't Stop 'Til You Get Enough 2003 Michael Jackson",
+    "duration": "4:00"
+  },
+  {
+    "id": "the-way-you-make-me-feel-single",
+    "title": "The Way You Make Me Feel - Single Version",
+    "album": "Bad",
+    "energy": 8,
+    "mood": [
+      "confident",
+      "love",
+      "upbeat"
+    ],
+    "spotifyQuery": "The Way You Make Me Feel Single Version Michael Jackson",
+    "duration": "4:26"
+  },
+  {
+    "id": "slave-to-the-rhythm",
+    "title": "Slave to the Rhythm",
+    "album": "Xscape",
+    "energy": 8,
+    "mood": [
+      "dance",
+      "upbeat",
+      "pop"
+    ],
+    "spotifyQuery": "Slave to the Rhythm Michael Jackson",
+    "duration": "4:15"
+  },
+  {
+    "id": "speed-demon",
+    "title": "Speed Demon",
+    "album": "Bad",
+    "energy": 8,
+    "mood": [
+      "upbeat",
+      "fun",
+      "energetic"
+    ],
+    "spotifyQuery": "Speed Demon Michael Jackson",
+    "duration": "4:01"
+  },
+  {
+    "id": "break-of-dawn",
+    "title": "Break of Dawn",
+    "album": "Invincible",
+    "energy": 4,
+    "mood": [
+      "smooth",
+      "love",
+      "chill"
+    ],
+    "spotifyQuery": "Break of Dawn Michael Jackson",
+    "duration": "5:32"
+  },
+  {
+    "id": "will-you-be-there-album",
+    "title": "Will You Be There (Album Version)",
+    "album": "Dangerous",
+    "energy": 6,
+    "mood": [
+      "epic",
+      "hopeful",
+      "uplifting"
+    ],
+    "spotifyQuery": "Will You Be There Album Version Michael Jackson",
+    "duration": "7:40"
+  },
+  {
+    "id": "get-on-the-floor",
+    "title": "Get on the Floor",
+    "album": "Off The Wall",
+    "energy": 8,
+    "mood": [
+      "dance",
+      "upbeat",
+      "happy"
+    ],
+    "spotifyQuery": "Get on the Floor Michael Jackson",
+    "duration": "4:39"
+  },
+  {
+    "id": "unbreakable",
+    "title": "Unbreakable",
+    "album": "Invincible",
+    "energy": 8,
+    "mood": [
+      "confident",
+      "energetic",
+      "pop"
+    ],
+    "spotifyQuery": "Unbreakable Michael Jackson",
+    "duration": "6:25"
+  },
+  {
+    "id": "blue-gangsta",
+    "title": "Blue Gangsta",
+    "album": "Xscape",
+    "energy": 7,
+    "mood": [
+      "dark",
+      "mysterious",
+      "pop"
+    ],
+    "spotifyQuery": "Blue Gangsta Michael Jackson",
+    "duration": "4:14"
+  },
+  {
+    "id": "come-together",
+    "title": "Come Together",
+    "album": "HIStory",
+    "energy": 8,
+    "mood": [
+      "rock",
+      "cool",
+      "rebellious"
+    ],
+    "spotifyQuery": "Come Together Michael Jackson",
+    "duration": "4:02"
+  },
+  {
+    "id": "one-day-in-your-life",
+    "title": "One Day In Your Life",
+    "album": "Forever, Michael",
+    "energy": 3,
+    "mood": [
+      "sad",
+      "love",
+      "nostalgic"
+    ],
+    "spotifyQuery": "One Day In Your Life Michael Jackson",
+    "duration": "4:15"
+  },
+  {
+    "id": "got-to-be-there",
+    "title": "Got To Be There - Single Version",
+    "album": "Got To Be There",
+    "energy": 4,
+    "mood": [
+      "love",
+      "hopeful",
+      "classic"
+    ],
+    "spotifyQuery": "Got To Be There Michael Jackson",
+    "duration": "3:22"
+  },
+  {
+    "id": "this-is-it",
+    "title": "This Is It",
+    "album": "This Is It",
+    "energy": 5,
+    "mood": [
+      "uplifting",
+      "hopeful",
+      "pop"
+    ],
+    "spotifyQuery": "This Is It Michael Jackson",
+    "duration": "3:36"
+  },
+  {
+    "id": "rock-with-you-single",
+    "title": "Rock with You - Single Version",
+    "album": "Off The Wall",
+    "energy": 7,
+    "mood": [
+      "happy",
+      "dance",
+      "smooth"
+    ],
+    "spotifyQuery": "Rock with You Single Michael Jackson",
+    "duration": "3:23"
+  },
+  {
+    "id": "earth-song-radio",
+    "title": "Earth Song - Radio Edit",
+    "album": "HIStory",
+    "energy": 7,
+    "mood": [
+      "epic",
+      "sad",
+      "angry"
+    ],
+    "spotifyQuery": "Earth Song Radio Edit Michael Jackson",
+    "duration": "5:02"
+  },
+  {
+    "id": "hollywood-tonight",
+    "title": "Hollywood Tonight",
+    "album": "Michael",
+    "energy": 7,
+    "mood": [
+      "upbeat",
+      "dance",
+      "pop"
+    ],
+    "spotifyQuery": "Hollywood Tonight Michael Jackson",
+    "duration": "4:30"
+  },
+  {
+    "id": "aint-no-sunshine",
+    "title": "Ain't No Sunshine",
+    "album": "Got To Be There",
+    "energy": 3,
+    "mood": [
+      "sad",
+      "soul",
+      "lonely"
+    ],
+    "spotifyQuery": "Ain't No Sunshine Michael Jackson",
+    "duration": "4:09"
+  },
+  {
+    "id": "you-are-not-alone-single",
+    "title": "You Are Not Alone - Single Version",
+    "album": "HIStory",
+    "energy": 2,
+    "mood": [
+      "lonely",
+      "love",
+      "sad"
+    ],
+    "spotifyQuery": "You Are Not Alone Single Version Michael Jackson",
+    "duration": "4:34"
+  },
+  {
+    "id": "loving-you",
+    "title": "Loving You",
+    "album": "Xscape",
+    "energy": 5,
+    "mood": [
+      "love",
+      "smooth",
+      "pop"
+    ],
+    "spotifyQuery": "Loving You Michael Jackson",
+    "duration": "3:15"
+  },
+  {
+    "id": "i-wanna-be-where-you-are",
+    "title": "I Wanna Be Where You Are",
+    "album": "Got To Be There",
+    "energy": 6,
+    "mood": [
+      "happy",
+      "upbeat",
+      "classic"
+    ],
+    "spotifyQuery": "I Wanna Be Where You Are Michael Jackson",
+    "duration": "2:59"
+  },
+  {
+    "id": "thriller-steve-aoki",
+    "title": "Thriller (Steve Aoki Midnight Hour Remix)",
+    "album": "Thriller 25",
+    "energy": 9,
+    "mood": [
+      "dance",
+      "electronic",
+      "upbeat"
+    ],
+    "spotifyQuery": "Thriller Steve Aoki Michael Jackson",
+    "duration": "5:02"
+  },
+  {
+    "id": "girlfriend",
+    "title": "Girlfriend",
+    "album": "Off The Wall",
+    "energy": 6,
+    "mood": [
+      "happy",
+      "smooth",
+      "love"
+    ],
+    "spotifyQuery": "Girlfriend Michael Jackson",
+    "duration": "3:05"
+  },
+  {
+    "id": "xscape",
+    "title": "Xscape",
+    "album": "Xscape",
+    "energy": 8,
+    "mood": [
+      "upbeat",
+      "dance",
+      "pop"
+    ],
+    "spotifyQuery": "Xscape Michael Jackson",
+    "duration": "4:04"
+  },
+  {
+    "id": "whatever-happens",
+    "title": "Whatever Happens",
+    "album": "Invincible",
+    "energy": 6,
+    "mood": [
+      "mysterious",
+      "smooth",
+      "pop"
+    ],
+    "spotifyQuery": "Whatever Happens Michael Jackson",
+    "duration": "4:56"
+  },
+  {
+    "id": "just-good-friends",
+    "title": "Just Good Friends",
+    "album": "Bad",
+    "energy": 7,
+    "mood": [
+      "upbeat",
+      "fun",
+      "pop"
+    ],
+    "spotifyQuery": "Just Good Friends Michael Jackson",
+    "duration": "4:06"
+  },
+  {
+    "id": "love-never-felt-so-good-original",
+    "title": "Love Never Felt So Good (Original Version)",
+    "album": "Xscape",
+    "energy": 6,
+    "mood": [
+      "happy",
+      "smooth",
+      "love"
+    ],
+    "spotifyQuery": "Love Never Felt So Good Original Michael Jackson",
+    "duration": "3:20"
+  },
+  {
+    "id": "why-you-wanna-trip-on-me",
+    "title": "Why You Wanna Trip on Me",
+    "album": "Dangerous",
+    "energy": 8,
+    "mood": [
+      "angry",
+      "rebellious",
+      "upbeat"
+    ],
+    "spotifyQuery": "Why You Wanna Trip on Me Michael Jackson",
+    "duration": "5:24"
+  },
+  {
+    "id": "its-the-falling-in-love",
+    "title": "It's the Falling in Love",
+    "album": "Off The Wall",
+    "energy": 7,
+    "mood": [
+      "happy",
+      "love",
+      "upbeat"
+    ],
+    "spotifyQuery": "It's the Falling in Love Michael Jackson",
+    "duration": "3:48"
+  },
+  {
+    "id": "little-christmas-tree",
+    "title": "Little Christmas Tree",
+    "album": "A Motown Christmas",
+    "energy": 3,
+    "mood": [
+      "holiday",
+      "sad",
+      "nostalgic"
+    ],
+    "spotifyQuery": "Little Christmas Tree Michael Jackson",
+    "duration": "3:37"
+  },
+  {
+    "id": "burn-this-disco-out",
+    "title": "Burn This Disco Out",
+    "album": "Off The Wall",
+    "energy": 8,
+    "mood": [
+      "dance",
+      "upbeat",
+      "fun"
+    ],
+    "spotifyQuery": "Burn This Disco Out Michael Jackson",
+    "duration": "3:40"
+  },
+  {
+    "id": "gone-too-soon",
+    "title": "Gone Too Soon",
+    "album": "Dangerous",
+    "energy": 2,
+    "mood": [
+      "sad",
+      "lonely",
+      "peace"
+    ],
+    "spotifyQuery": "Gone Too Soon Michael Jackson",
+    "duration": "3:22"
+  },
+  {
+    "id": "2-bad",
+    "title": "2 Bad",
+    "album": "HIStory",
+    "energy": 8,
+    "mood": [
+      "angry",
+      "rebellious",
+      "upbeat"
+    ],
+    "spotifyQuery": "2 Bad Michael Jackson",
+    "duration": "4:49"
+  },
+  {
+    "id": "speechless",
+    "title": "Speechless",
+    "album": "Invincible",
+    "energy": 2,
+    "mood": [
+      "love",
+      "peace",
+      "calm"
+    ],
+    "spotifyQuery": "Speechless Michael Jackson",
+    "duration": "3:18"
+  },
+  {
+    "id": "wanna-be-startin-somethin-single",
+    "title": "Wanna Be Startin' Somethin' - Single Version",
+    "album": "Thriller",
+    "energy": 9,
+    "mood": [
+      "energetic",
+      "dance",
+      "fun"
+    ],
+    "spotifyQuery": "Wanna Be Startin' Somethin' Single Version Michael Jackson",
+    "duration": "4:17"
+  },
+  {
+    "id": "smile",
+    "title": "Smile",
+    "album": "HIStory",
+    "energy": 3,
+    "mood": [
+      "hopeful",
+      "nostalgic",
+      "sad"
+    ],
+    "spotifyQuery": "Smile Michael Jackson",
+    "duration": "4:56"
+  },
+  {
+    "id": "diamonds-are-invincible",
+    "title": "Michael Jackson x Mark Ronson: Diamonds are Invincible",
+    "album": "Diamonds are Invincible",
+    "energy": 8,
+    "mood": [
+      "dance",
+      "electronic",
+      "upbeat"
+    ],
+    "spotifyQuery": "Diamonds are Invincible Michael Jackson Mark Ronson",
+    "duration": "5:00"
+  },
+  {
+    "id": "tabloid-junkie",
+    "title": "Tabloid Junkie",
+    "album": "HIStory",
+    "energy": 8,
+    "mood": [
+      "angry",
+      "rebellious",
+      "upbeat"
+    ],
+    "spotifyQuery": "Tabloid Junkie Michael Jackson",
+    "duration": "4:32"
+  },
+  {
+    "id": "the-way-you-love-me",
+    "title": "(I Like) The Way You Love Me",
+    "album": "Michael",
+    "energy": 6,
+    "mood": [
+      "happy",
+      "love",
+      "pop"
+    ],
+    "spotifyQuery": "The Way You Love Me Michael Jackson",
+    "duration": "4:33"
+  },
+  {
+    "id": "love-never-felt-so-good-fedde",
+    "title": "Love Never Felt So Good - Fedde Le Grand Remix Radio Edit",
+    "album": "Xscape",
+    "energy": 8,
+    "mood": [
+      "dance",
+      "electronic",
+      "happy"
+    ],
+    "spotifyQuery": "Love Never Felt So Good Fedde Remix Michael Jackson",
+    "duration": "3:53"
+  },
+  {
+    "id": "smooth-criminal-immortal",
+    "title": "Smooth Criminal - Immortal Version",
+    "album": "Immortal",
+    "energy": 8,
+    "mood": [
+      "mysterious",
+      "cool",
+      "dance"
+    ],
+    "spotifyQuery": "Smooth Criminal Immortal Version Michael Jackson",
+    "duration": "4:17"
+  },
+  {
+    "id": "she-drives-me-wild",
+    "title": "She Drives Me Wild",
+    "album": "Dangerous",
+    "energy": 8,
+    "mood": [
+      "upbeat",
+      "energetic",
+      "dance"
+    ],
+    "spotifyQuery": "She Drives Me Wild Michael Jackson",
+    "duration": "3:41"
+  }
+]
