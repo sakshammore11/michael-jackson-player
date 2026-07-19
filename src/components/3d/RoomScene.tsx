@@ -29,7 +29,6 @@ export default function RoomScene() {
             rotation={[0, 0, 0]}
             polar={[-0.1, 0.1]}
             azimuth={[-0.2, 0.2]}
-            config={{ mass: 2, tension: 400, friction: 40 }}
           >
             {/* Sleek, dark table */}
             <mesh position={[0, -0.85, 0]} receiveShadow>
