@@ -45,7 +45,7 @@ export default function RoomScene() {
             <CDPlayer />
           </PresentationControls>
 
-          <EffectComposer disableNormalPass multisampling={4}>
+          <EffectComposer multisampling={4}>
             <Bloom luminanceThreshold={0.5} luminanceSmoothing={0.9} height={300} intensity={0.8} />
             <Vignette eskil={false} offset={0.1} darkness={1.1} />
           </EffectComposer>
